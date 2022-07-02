@@ -5,7 +5,7 @@
 <br><br>
 <p align="center">
 <strong>
->_LouLou Nuker ist juste a bot nuker.
+>_LouLou Nuker is juste a discord bot nuker.
 <br>
 you can modify the prefix the discord status and other.
 <br><br><br>
